@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #111;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 75vh;
+    margin: 0;
+    line-height: 1;
+}
+
+button {
+    margin: 5px;
+    border-radius: 2px;
+    box-shadow: 2px 1px ghostwhite;
+}
